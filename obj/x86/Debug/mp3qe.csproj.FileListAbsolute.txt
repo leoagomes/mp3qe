@@ -1,0 +1,12 @@
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\bin\Debug\mp3qe.exe.config
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\bin\Debug\mp3qe.exe
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\bin\Debug\mp3qe.pdb
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\obj\x86\Debug\mp3qe.Form1.resources
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\obj\x86\Debug\mp3qe.Processo.resources
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\obj\x86\Debug\mp3qe.Properties.Resources.resources
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\obj\x86\Debug\mp3qe.exe
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\obj\x86\Debug\mp3qe.pdb
+C:\Users\Leo\Documents\Big Projects\mp3qe\mp3qe\obj\x86\Debug\mp3qe.Form2.resources
